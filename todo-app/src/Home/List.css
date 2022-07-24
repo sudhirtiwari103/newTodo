@@ -1,0 +1,44 @@
+#listss{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    font-size:2rem;
+}
+
+
+.ic{
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+.function1:hover {
+    background-color: rgb(236, 231, 193);
+    cursor: pointer;
+  }
+ 
+.link-list{
+    display: flex;
+    justify-content: space-between;
+}
+.link1{
+    text-decoration: none;
+    color: black;
+  }
+  .link1:hover {
+    text-decoration: none;
+    color: black;
+    font-weight:bold;
+  }
+
+#icons{
+    display: flex;
+}
+.fa-user-group:hover{
+  color:rgb(12, 141, 216);
+}
+.fa-trash-can:hover{
+  color:rgb(252, 70, 70);
+}
+.fa-pen-to-square:hover{
+  color:green;
+}
